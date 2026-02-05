@@ -1,2 +1,2 @@
 # Códigos-IC-python
-Códigos da minha IC sobre Redes Neurais
+Códigos onde eu testo funções que aprendi durante minha IC.
